@@ -1,5 +1,8 @@
 # Tableau Homework - Citi Bike Analytics
 
+To see my Tableu page please enter the following link:
+https://public.tableau.com/profile/jorge.alberto.mu.ozcano.castro#!/vizhome/TABLEUCHALLENGCITIBIKE2019/TOTALBIKEID
+
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
